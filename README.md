@@ -1,4 +1,4 @@
-# ssx-bin 2.2.2 x86_64
+# ssx-bin 2.2.2
 
 Arch Linux contributor Alexandre Minoshi's GUI for su
 
